@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.repojack041" name="REPO-JACK-041.004" version="0.4.1" provider-name="luminart506">
+    <extension point="xbmc.addon.repository" name="repository.repojack041">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/luminart506/repojack041/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/luminart506/repojack041/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/luminart506/repojack041/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>REPO-JACK-041.004</summary>
+        <description>INSTALAÇÃO VIA LINK</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
